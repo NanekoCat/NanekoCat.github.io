@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mis progresos
+date: 2025-10-13 
 ---
 
 #Bienvenido!
